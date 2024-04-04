@@ -1,0 +1,18 @@
+export const data: { side: "left" | "right" }[] = [
+  { side: "left" },
+  { side: "left" },
+  { side: "right" },
+  { side: "left" },
+  { side: "right" },
+  { side: "right" },
+  { side: "left" },
+  { side: "left" },
+  { side: "right" },
+  { side: "left" },
+  { side: "right" },
+  { side: "left" },
+  { side: "right" },
+  { side: "left" },
+  { side: "right" },
+  { side: "left" },
+];
